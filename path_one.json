@@ -1,11 +1,2 @@
 
-  {
-    "url":"https://en.savefrom.net/19/#url=",
-    "document":"div.media-result > div.result-box.video",
-    "thumbnail":"div.thumb-box.thumb-272 > a.clip > img.thumb",
-    "title":"div.info-box > div.meta > div.row.title",
-    "time":"div.meta > div.row.duration",
-    "mp":"div.link-group > a.link"
-  }
-  
-
+{"url":"https://en.savefrom.net/19/#url=","document":"div.media-result > div.result-box.video","thumbnail":"div.thumb-box.thumb-272 > a.clip > img.thumb","title":"div.info-box > div.meta > div.row.title","time":"div.meta > div.row.duration","mp":"div.link-group > a.link"}
